@@ -1,0 +1,8 @@
+//18
+//ÖĞÎÄ×Ö·û
+public class Char4{
+	public static void main(String args[]) {
+		char c = 'Íõ';
+		System.out.println(c);
+	}
+}

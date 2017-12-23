@@ -1,0 +1,8 @@
+//28
+//字符与数字进行判断是根据编码
+public class Math7{
+	public static void main(String args[]) {
+		System.out.println('a' == 97);//false
+		System.out.println('0' == 0);//true
+	}
+}

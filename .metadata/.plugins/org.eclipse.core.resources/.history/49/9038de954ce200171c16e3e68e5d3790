@@ -1,0 +1,8 @@
+//13
+//小数与整型计算问题
+public class Float_int{
+	public static void main(String args[]) {
+		double num = 1.1;//定义一个小数
+		System.out.println(num * 10);
+	}
+}

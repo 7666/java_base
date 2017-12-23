@@ -1,0 +1,6 @@
+public class Max_value{
+	public static void main(String args[]) {
+		int num = Integer.MAX_VALUE;//×î´óÖµ
+		System.out.println(num);
+	}
+}

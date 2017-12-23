@@ -1,0 +1,19 @@
+package ·½·¨;
+//44
+//¹Û²ì
+public class Fangfa6{
+	public static void main(String args[]) {
+		System.out.println(add());
+	}
+	public static int add() {
+		int result = 0;
+		int x = 0;
+		result += x;
+		x++;
+		add();
+		if(i == 100) {
+			return result;
+		}
+		
+	}
+}

@@ -1,0 +1,10 @@
+//17
+//大写字母变为小写字母
+public class Char3{
+	public static void main(String args[]) {
+		char a = 'A';
+		int num = a + 32;
+		char b = (char)num;
+		System.out.println(b);
+	}
+}

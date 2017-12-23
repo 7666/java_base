@@ -1,0 +1,14 @@
+package 方法;
+//40
+//有参数无返回值的方法
+public class Fangfa2{
+	public static void main(String args[]) {
+		int result = add(10,20);
+		System.out.println(result);
+		//
+		System.out.println(add(100,200));
+	}
+	public static int add(int x,int y) {
+		return x+y;
+	}
+}

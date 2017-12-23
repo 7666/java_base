@@ -1,0 +1,8 @@
+//19
+//booleanÐÍÊµÀý
+public class Boolean{
+	public static void main(String args[]) {
+		boolean flag = 10 > 9;
+		System.out.println(flag);
+	}
+}

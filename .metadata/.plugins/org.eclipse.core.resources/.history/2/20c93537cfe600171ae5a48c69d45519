@@ -1,0 +1,11 @@
+//34
+//使用for循环实现1-100的累加
+public class For{
+	public static void main(String args[]) {
+		for(int a = 0,sum = 0 ; a <= 100;a++) {
+			sum += a;
+			System.out.println(sum);
+		}
+		
+	}
+}

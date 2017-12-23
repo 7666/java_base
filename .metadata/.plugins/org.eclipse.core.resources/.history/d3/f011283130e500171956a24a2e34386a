@@ -1,0 +1,11 @@
+//24
+//×ÔÔöÔËËã
+public class Math3{
+	public static void main(String args[]) {
+		int x = 10;
+		int y = 20;
+		int result = ++x * y;
+		System.out.println(result);//
+		System.out.println(x);//
+	}
+}

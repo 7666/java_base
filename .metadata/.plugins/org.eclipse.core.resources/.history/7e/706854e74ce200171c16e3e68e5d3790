@@ -1,0 +1,11 @@
+//13
+//小数与整型计算问题
+public class Float_int{
+	public static void main(String args[]) {
+		double num = 1.1;//定义一个小数
+		System.out.println(num * 10);//11.0 小数乘以一个整型会得到一个小数
+		int num1 = 10;//定义一个整型
+		System.out.println(num1 * 1.1);//11.0
+		System.out.println(10 / 3);
+	}
+}

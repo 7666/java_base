@@ -1,0 +1,8 @@
+//5
+public class Long_int{
+	public static void main(String args[]) {
+		long num = 2147483648L;//定义一个long类型，后缀为‘l’或者‘L’
+		int result = (int)num;
+		System.out.println(result);
+	}
+}
